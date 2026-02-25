@@ -1,115 +1,104 @@
-IN-Gauge Integration Roadmap
-Overview
+N-Gauge Integration Roadmap
+Welcome
 
-This repository contains the official 2026 Integration Roadmaps for IN-Gauge, covering both:
+This repository houses the 2026 Integration Roadmaps for IN-Gauge — our forward-looking plan for expanding and strengthening both PMS and POS connectivity across the hospitality ecosystem.
 
-Property Management Systems (PMS)
+Integrations are not just technical connectors. They are growth levers, revenue accelerators, and competitive differentiators. This roadmap defines where we are investing, why it matters, and how we are sequencing delivery.
 
-Point of Sale (POS)
-
-These documents represent the authoritative planning artifacts for integration prioritization, sequencing, and delivery alignment across Product, Integrations, Cloud Operations, and Executive Leadership.
-
-This repository serves as a controlled reference point for roadmap visibility and version tracking.
-
-Contents
+What’s Inside
 
 ING_PMS-Roadmap-2026.xlsx
-2026 roadmap for Property Management System integrations.
+Our strategic roadmap for Property Management System integrations.
 
 ING_POS-Roadmap-2026.xlsx
-2026 roadmap for Point of Sale integrations.
+Our strategic roadmap for Point of Sale integrations.
 
-Both documents are currently at Version 1.0.
+Both are currently published as Version 1.0.
 
-Purpose
+Why This Exists
 
-The objectives of this repository are:
+As IN-Gauge continues to scale, integration strategy must remain deliberate.
 
-Establish a single source of truth for Integration roadmap planning
+This repository exists to:
 
-Provide executive-level visibility into sequencing and prioritization
+Maintain a single, version-controlled source of truth
 
-Support alignment between Sales, Product, and Engineering
+Align Sales, Product, Integrations, and Cloud Operations
 
-Track planned vs active vs backlog integrations
+Provide visibility into prioritization decisions
 
-Maintain version-controlled governance over roadmap changes
+Track certification and partnership initiatives
 
-Scope
+Ensure roadmap discipline as we expand
 
-These roadmaps include:
+This is not a static document — it evolves as the business evolves.
+
+What These Roadmaps Represent
+
+Each roadmap reflects:
 
 New integration targets
 
-Enhancement work for existing integrations
+Expansion of existing partnerships
 
-Certification initiatives
+Certification and marketplace visibility initiatives
 
-Strategic partnership alignment
+Enhancements to data depth and reliability
 
-Resource planning considerations
+Strategic sequencing based on revenue and operational impact
 
-Dependencies impacting delivery timelines
+Dependencies that affect readiness and rollout
 
-This repository does not contain implementation code.
+Every item included is intentional. If it’s here, it’s aligned to growth.
 
-Ownership
+Governance & Ownership
 
-Primary Owner:
+Roadmap ownership sits with:
+
 VP, Cloud Operations & Integrations
 
-Stakeholders:
+With active collaboration across:
 
 Product Leadership
 
 Executive Team
 
-Sales Leadership
+Sales
 
 Integrations Engineering
 
 Cloud Operations
 
-Changes to roadmap documents must be reviewed and approved prior to version updates.
+Updates are reviewed, validated, and versioned to ensure clarity and accountability.
 
-Versioning
+Versioning Approach
 
-Version updates should follow:
+We maintain structured version control:
 
-Major version: structural roadmap changes or reprioritization
+Major: Strategic shifts or reprioritization
 
-Minor version: sequencing adjustments or status updates
+Minor: Sequencing or status updates
 
-Patch version: formatting or clerical corrections
+Patch: Administrative changes
 
-Example:
+Current Release:
 
-v1.0 – Initial 2026 Roadmap Publication
+v1.0 — Initial 2026 Roadmap Publication
 
-Governance
+Strategic Lens
 
-This repository is public for visibility but roadmap decisions are governed internally.
+Integrations are foundational to:
 
-Changes require:
+Expanding brand partnerships
 
-Alignment with executive leadership
+Increasing ARR potential
 
-Resource validation
+Reducing onboarding friction
 
-Strategic prioritization approval
+Strengthening data reliability
 
-Strategic Context
+Scaling internationally
 
-Integrations are a primary revenue enabler for IN-Gauge.
+Enhancing platform defensibility
 
-Roadmap sequencing is aligned to:
-
-Revenue impact
-
-Strategic brand expansion
-
-Platform maturity
-
-Certification milestones
-
-Operational scalability
+This roadmap is how we move from opportunity to execution.
